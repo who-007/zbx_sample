@@ -1,0 +1,2 @@
+# zbx_sample
+zabbixサンプル
